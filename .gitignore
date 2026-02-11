@@ -1,0 +1,196 @@
+# Visual Studio files  
+.vs/  
+*.suo  
+*.user  
+*.userprefs  
+*.pdb  
+*.obj  
+*.exe  
+*.dll  
+*.pri  
+*.apk  
+*.apklib  
+*.appx  
+*.appxbundle  
+*.xap  
+*.tlog  
+*.psess  
+*.vsp  
+*.vspx  
+*.vsmdi  
+*.webtest  
+*.testsettings  
+*.trx  
+*.ruleset  
+*.licenseheader  
+*.licenses  
+*.resharper  
+*.bak  
+*.cache  
+*.designer.cs  
+*.resx.log  
+*.rdc  
+*.rptproj  
+*.sqlproj  
+*.vbproj  
+*.csproj  
+*.fsproj  
+*.sln.docstates  
+*.vssscc  
+*.scc  
+*.vspscc  
+*.vsscc  
+*.user.db  
+*.vcproj  
+*.vccproj  
+*.vcxproj  
+*.vcxproj.filters  
+*.vcxproj.user  
+*.vcxproj.user.filters  
+*.dsp  
+*.dsw  
+*.opt  
+*.ncb  
+*.aps  
+*.plg  
+*.manifest  
+*.vbg  
+*.vbp  
+*.vbk  
+*.frm  
+*.frx  
+*.ctl  
+*.ctx  
+*.doc  
+*.mdf  
+*.ldf  
+*.sdf  
+*.sdf-journal  
+*.log  
+*.err  
+*.pid  
+*.tmp  
+*.temp  
+*.junk  
+*.bak  
+*.old  
+*.obj  
+*.o  
+*.lib  
+*.exp  
+*.pch  
+*.ipch  
+*.idb  
+*.pgc  
+*.pgd  
+*.tlb  
+*.tlh  
+*.tli  
+*.ilk  
+*.msi  
+*.msp  
+*.mui  
+*.nupkg  
+*.zip  
+*.rar  
+*.7z  
+*.tar  
+*.gz  
+*.bz2  
+*.xz  
+*.iso  
+*.dmg  
+*.vmdk  
+*.ova  
+*.ovf  
+*.vhd  
+*.vhdx  
+*.vbox  
+*.vbox-prev  
+*.vbox-extpack  
+*.wsdd  
+*.pfx  
+*.snk  
+*.pub  
+*.key  
+*.pem  
+*.cer  
+*.crt  
+*.p12  
+*.jks  
+*.keystore  
+*.sks  
+
+# Build results  
+[Dd]ebug/  
+[Rr]elease/  
+[Aa]rm/  
+[Aa]rm64/  
+[Xx]64/  
+[Xx]86/  
+bld/  
+bin/  
+obj/  
+
+# Packages and dependencies  
+packages/  
+*.nupkg  
+project.lock.json  
+project.assets.json  
+
+# Visual Studio Code (if used)  
+.vscode/  
+
+# Rider (JetBrains IDE)  
+.idea/  
+
+# Dotnet tool files  
+.config/dotnet-tools.json  
+.config/dotnet-tools.local.json  
+
+# Test results  
+TestResults/  
+*.trx  
+*.testrunconfig  
+
+# Generated files  
+*.Designer.cs # For WinForms/WPF, these are often generated and can be ignored if the form definition is enough.  
+*.csproj.user  
+*.user  
+GeneratedResults/  
+
+# User-specific files  
+*.user  
+*.suo  
+
+# Local database files (if you're using LocalDB or similar)  
+*.mdf  
+*.ldf  
+*.sdf  
+
+# Configuration files that might contain sensitive data or local settings  
+# It's often good practice to keep a template for these (e.g., appsettings.Development.json.example)  
+# and ignore the actual local configuration.  
+appsettings.Development.json  
+appsettings.Production.json  
+appsettings.Staging.json  
+appsettings.json.user  
+appsettings.json.local  
+
+# If you have specific build outputs not covered by bin/obj  
+publish/  
+
+# Other common ignored files  
+Thumbs.db  
+.DS_Store  
+*.orig  
+*.swp  
+*.swo  
+
+# Dependency specific ignore patterns  
+# For your 'Dependencies' folder, if it contains compiled third-party binaries  
+# that are not managed by NuGet and should not be committed to source control.  
+# If these are just source code dependencies, you might not need this.  
+# Dependencies/  
+# Dependencies/*.dll  
+# Dependencies/*.exe  
